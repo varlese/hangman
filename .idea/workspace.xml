@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31d1d362-1ec5-489a-9b82-ef56246fe074" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman.py" afterDir="false" />
     </list>
@@ -83,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571778345508</updated>
       <workItem from="1571778363504" duration="3955000" />
-      <workItem from="1572006243848" duration="2006000" />
+      <workItem from="1572006243848" duration="4639000" />
     </task>
     <servers />
   </component>
